@@ -8,6 +8,6 @@ echo -e "\e[33m Enabling the fie \e[0m"
 systemctl enable mongod 
 
 
-echo -e "e[33m restarting the mongodb \e[0m"
+echo -e "\e[33m restarting the mongodb \e[0m"
 
 systemctl restart mongod
